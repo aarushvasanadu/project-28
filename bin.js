@@ -12,7 +12,7 @@
     this.x = x
     this.y = y
     
-    
+
         }
         display(){
     imageMode (CENTER)        
